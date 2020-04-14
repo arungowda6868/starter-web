@@ -17,4 +17,9 @@ Maven
 Jenkins
 Docker
 Kubernates
+Nagios
+Sonarqube
+Nexus
+AWS
+
 
